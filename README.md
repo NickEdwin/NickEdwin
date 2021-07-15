@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Stay awhile and listen! (if you get the reference, we're already best friends)
 
-- 🔭 I’m currently working on a family tree app for my Grandma.  
+- 🔭 I’m currently working as a RoR Software Engineer.
 - 🌱 I’m currently learning more engineering with Ruby and 日本語 (the Japanese language!)   
 - 👯 I’m looking to collaborate on anything Ruby based!  
 - 🤔 I’m looking for help with great books to read! 
