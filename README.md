@@ -8,7 +8,7 @@
 - 💬 Ask me about my love of snowboarding🏂, camping 🏕, or anime 🇯🇵.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicholas-edwin) | NickEdwin85@gmail.com  
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Bears eat beets. Bears, beets, "Battlestar Galactica."
+- ⚡ Fun fact: Bears eat beets. Bears, beets, Battlestar Galactica.
 
 ## &#x1f4c8; GitHub Stats 
 <a href="https://github.com/nickedwin/nickedwin">
